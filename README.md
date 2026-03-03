@@ -61,3 +61,16 @@
   <img src="https://streak-stats.demolab.com?user=ahmedsh100&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app?username=ahmedsh100&theme=dracula&column=3&row=2&margin-w=15&margin-h=15" height="150" alt="trophy graph" />
 </div>
+
+![](https://github-profile-trophy.vercel.app/?username=ahmedsh100&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ahmedsh100&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ahmedsh100&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
